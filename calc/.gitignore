@@ -1,0 +1,16 @@
+# Файлы сборки и временные файлы Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# Файлы, которые генерируются при сборке
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.lib
