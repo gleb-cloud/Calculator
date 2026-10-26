@@ -1,0 +1,10 @@
+^C:\USERS\XIAOMI\DOCUMENTS\GITHUB2\CALCULATOR\BUILD\CMAKEFILES\45CF5F24CB6A90A8B1BDA98782899201\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/xiaomi/Documents/GitHub2/Calculator -BC:/Users/xiaomi/Documents/GitHub2/Calculator/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/xiaomi/Documents/GitHub2/Calculator/build/Calculator.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

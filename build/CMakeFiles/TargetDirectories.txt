@@ -1,0 +1,7 @@
+C:/Users/xiaomi/Documents/GitHub2/Calculator/build/CMakeFiles/sin_plugin.dir
+C:/Users/xiaomi/Documents/GitHub2/Calculator/build/CMakeFiles/ln_plugin.dir
+C:/Users/xiaomi/Documents/GitHub2/Calculator/build/CMakeFiles/cos_plugin.dir
+C:/Users/xiaomi/Documents/GitHub2/Calculator/build/CMakeFiles/pow_plugin.dir
+C:/Users/xiaomi/Documents/GitHub2/Calculator/build/CMakeFiles/calc.dir
+C:/Users/xiaomi/Documents/GitHub2/Calculator/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/xiaomi/Documents/GitHub2/Calculator/build/CMakeFiles/ZERO_CHECK.dir
