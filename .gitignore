@@ -1,0 +1,23 @@
+# Папка сборки CMake
+build/
+out/
+
+# Файлы, создаваемые CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Скомпилированные бинарники (exe, dll, obj и т.д.)
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+
+# Мусор от Visual Studio (если вдруг остался)
+.vs/
+x64/
+Debug/
+Release/

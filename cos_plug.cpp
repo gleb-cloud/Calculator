@@ -9,3 +9,4 @@ double my_cos(double x) {
 extern "C" PLUGIN_EXPORT PluginInfo GetPluginInfo() {
     return { "cos", my_cos };
 }
+// Ready for review
