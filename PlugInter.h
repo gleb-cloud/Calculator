@@ -18,3 +18,4 @@ struct PluginInfo2 {
     const char* name;
     MathFunc2 func;
 };
+// Ready for review

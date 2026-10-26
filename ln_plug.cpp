@@ -10,3 +10,4 @@ double my_ln(double x) {
 extern "C" PLUGIN_EXPORT PluginInfo GetPluginInfo() {
     return { "ln", my_ln };
 }
+// Ready for review

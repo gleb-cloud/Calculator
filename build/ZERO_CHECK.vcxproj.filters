@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\xiaomi\Documents\GitHub2\Calculator\build\CMakeFiles\45cf5f24cb6a90a8b1bda98782899201\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6C036BDD-D6D1-38D1-BC7A-86F2A8D373D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
