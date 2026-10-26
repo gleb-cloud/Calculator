@@ -1,4 +1,6 @@
-
+# Папка сборки CMake
+build/
+out/
 
 # Файлы, создаваемые CMake
 CMakeCache.txt
